@@ -437,7 +437,7 @@
     <string name="gcm_defaultSenderId" translatable="false">500424957435</string>
     <string name="google_api_key" translatable="false">AIzaSyAln5dxc8MbCbYoSo_6gtnVqv76zy9ot0c</string>
     <string name="google_app_id" translatable="false">1:500424957435:android:6c64c72f419c3c55</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAln5dxc8MbCbYoSo_6gtnVqv76zy9ot0c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">API KEY</string>
     <string name="google_storage_bucket" translatable="false">mycms-7ac06.appspot.com</string>
     <string name="hello_world">Hello world!</string>
     <string name="hint_email">Email</string>
